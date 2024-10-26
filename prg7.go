@@ -1,3 +1,4 @@
+// Using Scanf function to take the input from user
 package main
 
 import "fmt"
@@ -11,6 +12,4 @@ func main() {
 
 	fmt.Printf("Hi, everyone. I am %s and my phone number is %d", name, phoneNumber)
 
-	//fmt.Println(count)
-	//fmt.Println(error)
 }
