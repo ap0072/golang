@@ -1,4 +1,4 @@
-// Logical Operators
+//  Bitwise Operators
 package main
 
 import "fmt"

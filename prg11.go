@@ -1,4 +1,4 @@
-// Arthimetic Operators
+// Assignment Operators
 package main
 
 import "fmt"
